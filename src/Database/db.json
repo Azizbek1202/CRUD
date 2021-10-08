@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "fullName": "Raxmonov Azizbek",
+      "department": "IT",
+      "position": "Front-end",
+      "gender": "Man",
+      "dateOfBirth": "10.11.2002",
+      "id": 2
+    },
+    {
+      "fullName": "Diyorbek Ramazonov",
+      "department": "IT",
+      "position": "Marketolog",
+      "gender": "Man",
+      "dateOfBirth": "10.11.2002",
+      "id": 3
+    },
+    {
+      "fullName": "Azizbek Raxmonov",
+      "department": "IT",
+      "position": "Marketolog",
+      "gender": "",
+      "dateOfBirth": "2021-09-16",
+      "": "",
+      "id": 4
+    }
+  ]
+}
